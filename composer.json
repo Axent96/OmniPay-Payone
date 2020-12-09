@@ -1,5 +1,5 @@
 {
-    "name": "academe/omnipay-payone",
+    "name": "Axent96/OmniPay-Payone",
     "type": "library",
     "description": "PAYONE gateway driver for the Omnipay PHP payment processing library",
     "keywords": [
